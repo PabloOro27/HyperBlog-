@@ -1,6 +1,10 @@
 body
 {
+<<<<<<< HEAD
     color: rgb(201, 0, 0);
+=======
+    color: rgb(69, 150, 69);
+>>>>>>> cabecera
     text-align: center;
     font-family: "Courier";
     font-size: 16px;
@@ -10,7 +14,7 @@ body
 
 #cabecera
 {
-    background: #33A;
+    background: rgb(154, 193, 216);
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
     font-weight: bold;
